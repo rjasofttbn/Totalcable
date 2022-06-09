@@ -1,0 +1,472 @@
+/* here you can put your own css to customize and override the theme */
+/*.Customised by Sakib.*/
+.headcontainer{
+    padding: 0 50px 0 50px;
+}
+.row.static-info {
+  margin-left: 0px;
+}
+
+.header-navigation.pull-right.font-transform-inherit {
+  padding-bottom: 0px;
+  padding-top: 12px;
+  //line-height: 69px;
+}
+.site-logo {
+  padding-top: 9px;
+  padding-bottom: 5px;
+  margin-right: 0px;
+  
+}
+
+
+.header-navigation > ul > li > a {
+  color: #000;
+  font-size: 14px;
+  //padding-right: 30px;
+}
+ul#drop {
+  font-size: 14px;
+}
+
+.alert.alert-danger {
+  margin-bottom: 0px;
+}
+
+.page-header-fixed .header {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99999;
+}
+
+.fa-item {
+  font-size: 14px;
+  padding: 0 0 0 20px;
+}
+.checkout-block {
+  background: #292f34;
+  color: #c8ced4;
+  padding: 25px 0;
+}
+div#second {
+  background-color: #23b9db;
+}
+div#third {
+  background-color: #E18604;
+}
+div#fourth {
+  background-color: #631e99;
+}
+div#fifth {
+  background-color: #2bbf26;
+}
+i.fa.fa-globe {
+  font-size: 80px;
+  color: aliceblue;
+  padding-top: 30px;
+}
+i.fa.fa-film {
+    font-size: 80px;
+  color: aliceblue;
+  padding-top: 30px;
+}
+i.fa.fa-bullhorn {
+    font-size: 80px;
+  color: aliceblue;
+  padding-top: 30px;
+}
+i.fa.fa-play {
+    font-size: 80px;
+  color: aliceblue;
+  padding-top: 30px;
+}
+i.fa.fa-music {
+    font-size: 80px;
+  color: aliceblue;
+  padding-top: 30px;
+}
+i.fa.fa-child {
+    font-size: 80px;
+  color: aliceblue;
+  padding-top: 30px;
+}
+li {
+  line-height: 25px;
+  /******************** Tarrif page***************/
+}
+
+/***** Why Total Cable */
+.content h1, .content h2 {
+  font: 400 37px "PT Sans Narrow", Arial, sans-serif;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  //text-align: center;
+}
+.content h1 strong, .content h2 strong, .content h3 strong, .content h4 strong {
+  color: #E54A1A;
+}
+.choose-us-block h4 {
+  margin-bottom: 35px;
+}
+.content h4 {
+  font-size: 18px;
+}
+.choose-us-block .panel-group {
+  padding-top: 50px;
+}
+.panel-group {
+  margin-bottom: 20px;
+}
+
+
+
+
+.header {
+  margin-bottom: 0px; 
+}
+
+
+
+#packagemenu {
+  
+  margin-top: -25px;
+  margin-bottom: 0px;
+  margin-left: 32px;
+}
+.portlet {
+    margin-top: 20px;
+}
+.login .content {
+    margin-top: 20px;
+}
+.input-icon > .form-control {
+  padding-left: 10px;
+}
+.zipcode {
+  height: 34px;
+}
+#shipbutton > a:hover {
+    text-decoration: none;
+}
+ /*end Sakib*/
+/*Custom css by Lemon*/
+ .login .logo {
+  margin: 116px auto 20px auto;
+  padding: 15px;
+  text-align: center;
+}
+
+.login .reseller {
+  
+     width: 610px;
+  
+}
+
+[class^=mk-moon-], [class*=" mk-moon-"] {
+  
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: inherit;
+  -webkit-font-smoothing: antialiased;
+  display: inline;
+  width: auto;
+  height: auto;
+  line-height: normal;
+  background-image: none;
+  background-position: 0 0;
+  background-repeat: repeat;
+  margin-top: 0;
+  vertical-align: middle;
+}
+.mk-font-icons i.mk-size-xx-large.circle-enabled {
+  width: 128px;
+  height: 128px;
+  font-size: 70px;
+  line-height: 128px;
+}
+.mk-animate-element.mk-in-viewport.fade-in {
+  -webkit-animation: mk_fade 0.7s 1 cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  -moz-animation: mk_fade 0.7s 1 cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  -o-animation: mk_fade 0.7s 1 cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  animation: mk_fade 0.7s 1 cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  opacity: 1;
+}
+.mk-font-icons.icon-align-center {
+  display: block;
+  text-align: center;
+}
+.mk-font-icons i.circle-enabled {
+  text-align: center;
+  -webkit-border-radius: 256px;
+  -moz-border-radius: 256px;
+  border-radius: 256px;
+}
+.mk-font-icons i {
+  display: inline-block;
+}
+.mk-fancy-title {
+  font-size: 32px;
+  text-align:center;color: #333333;
+  font-weight:normal;
+  margin-top:20px;
+  margin-bottom:18px;
+   letter-spacing:0px;
+   text-transform: uppercase;
+
+}
+.mk-text-block {
+  text-align: left;
+}
+.checkout-block.content {
+  min-height: 100px;
+  padding: 50px 100px 21px;
+  background-image: url(venera_night_sky.jpg);
+  background-attachment: scroll;
+  background-color: #f4f4f4;
+  background-position: left top;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+  /* width: 100%; */
+  background-size: 100%;
+    position: relative;
+  overflow: hidden;
+}
+.mk-page-section h2 {
+  color: white;
+  font-size: 19px;
+}
+.mk-page-section .vc_row-fluid {
+  position: relative;
+  z-index: 10;
+}
+.mk-page-section {
+  padding-left: 86px;
+}
+
+
+.page-seat {
+  margin-right: -79px;
+  margin-left: -79px;
+}
+.show-text {
+    float: left; padding: 6px;
+}
+.drow-border {
+      / -webkit-border-radius: 4px; /
+    -webkit-border-radius: 4px; */
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    background: none;
+       padding: 25px 17px 2px 46px;
+    border: none;
+    margin-bottom: none;
+    float: left;
+}
+.way .inside-txt .display .number h3 {
+    margin: 0 0 2px 0;
+    padding: 0;
+    font-size: 21px;
+    font-weight: 400;
+    padding: 5px 0 0 8%;
+}
+.sep-txt {
+  padding: 0 9px 0 9px;
+}
+.way .drow-border {
+    / -webkit-border-radius: 4px; /
+    -webkit-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    background: none;
+    padding: 5px 8px 2px 41px;
+    border: none;
+    margin-bottom: none;
+}
+.inside-txt {
+    float: left;
+    background: none;
+    padding: 0;
+    margin: 0 auto;
+}
+.way .drow-border .display {
+    margin-bottom: 0px;
+    
+}
+.drow-border .display {
+    margin-bottom: 20px;
+    border: 2px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+}
+.quater {
+  float: left;
+}
+
+.drow-border .display .number h3 {
+    margin: 0 0 2px 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: 400;
+}
+.quater-half .showseats, .quater-half .showseats101 {
+    margin-bottom: 4px;
+}
+
+.quater-half .seattext {
+    border: none !important;
+    padding-left: 25px;
+    padding-right: 25px;
+    float: left;
+    font-weight: bolder;
+    font-size: 15px;
+        padding-top: 4px;
+}
+
+.showseats {
+    /*border: 1px solid;
+    padding-left: 5px;
+    padding-right: 7px;*/
+    border: 1px solid;padding-left: 5px;padding-right: 7px; float: left;
+}
+.showseats101 {
+        border: 1px solid;
+    padding-left: 4px;
+    padding-right: 4px;
+    float: left;
+}
+.noborder-left {
+  border: none !important;
+    
+}
+.text-sec {
+  float: left;
+}
+.noborder {
+  border: none !important;
+   width: 410px;
+}
+.seattext {
+  border: none !important;
+    padding-left: 11px;
+    padding-right: 11px;
+    float: left;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.r {
+  list-style: none;
+    float: right;
+}
+#gap {
+    clear:both;
+    float:left;
+}
+.seatplan_row {
+    float:left;
+}
+.seatplan {
+    width:100%  !important;
+}
+.seat_category {
+    float: left;
+}
+.cart {
+    padding: 1px;
+    margin: -10px;
+    //margin-top: -10px;
+    background-color: #313030;
+}
+.cartitems {
+    //width:100%;
+    //height: 10%;
+    margin: 10px;
+    border:1px solid;
+    border-radius:5px;
+    //box-shadow: 5px 5px 2px #888888;
+    background-color: #DCDCDC;
+}
+#maindiv {width: 100%;}
+#pardiv {display:inline-block;}
+.pardiv1 {float: left;}
+.spandiv1 {background-color:#B3B1B1;float:left;font-size: 15px; padding:5px 20px 5px 20px;}
+.spandiv2 {background-color: #9E0404;margin-left:25px; float:left;font-size: 15px;padding:5px 20px 5px 20px;}
+.spandiv3 {background-color: #1F1D1D; margin-left:25px; float:left;font-size: 15px;padding-top: 5px;padding:5px 20px 5px 20px;}
+
+.st-sec .quater-half .seattext {
+    border: none !important;
+    padding-left: 16px;
+    padding-right: 16px;
+    float: left;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+ /* End Custom css by Lemon*/
+ 
+ /*custom style by A. Sattar */
+.pricing-head h4 {
+  color: #000 !important;
+ }
+ 
+ .hgap {
+    width: 30px;
+    height: 10px;
+}
+.vgap {
+    height: 24px;
+    width: 20px;
+    clear: both;
+}
+
+
+.booked.showseats.rightone {
+    float: right;
+}
+.seattextL {
+    margin-left: 45px;
+}
+.l3 {
+    margin-left: 61px;
+}
+.r2 {
+    margin-right: 10px;
+}
+.r0 {
+    margin-right: 3px;
+}
+
+.seattextR {
+    clear: both;
+    margin-left: 15px;
+}
+
+.showseats{
+    cursor: pointer;
+}
+.showseats:hover{
+    background: purple;
+    color:#FFF;
+}
+ /*End custom style by A. Sattar */
+ 
+ /*Md. omar faruk*/
+ .row_color{
+     color: white; 
+     background-color: #333;
+ }
+ 
+ .number_color{
+     background-color: white;
+ }
+ 
+ .available {
+    background-color: green;
+}
+.booked {
+    background-color: gray !important;
+}
+ /*End Md. omar faruk*/
